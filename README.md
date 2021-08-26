@@ -4,9 +4,9 @@ Welcome to my first official android app Resume Builder, a simple way to generat
 
 # Screenshots
 
-![](https://i.ibb.co/82mWNry/step1.png)  |  ![](https://i.ibb.co/82mWNry/step1.png) | ![](https://github.com/IbrahimYousre/Resume-Builder/raw/master/Screenshoots/step3.png)
+![](https://i.ibb.co/82mWNry/step1.png)  |  ![](https://i.ibb.co/j8QzJDC/step2.png) | ![](https://i.ibb.co/TgVQtz9/step3.png)
 :-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/IbrahimYousre/Resume-Builder/raw/master/Screenshoots/step4.png)  |  ![](https://github.com/IbrahimYousre/Resume-Builder/raw/master/Screenshoots/step5.png) | ![](https://github.com/IbrahimYousre/Resume-Builder/raw/master/Screenshoots/step6.png)
+![](https://i.ibb.co/LCP5jCq/step4.png)  |  ![](https://i.ibb.co/R076mbx/step5.png) | ![](https://i.ibb.co/wwk6WVZ/step6.png)
 
 ## Functionalities
 ------------
